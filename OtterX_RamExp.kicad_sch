@@ -6138,7 +6138,7 @@
 				)
 			)
 		)
-		(property "Value" "74ACT139"
+		(property "Value" "74AC139"
 			(at 142.24 120.65 0)
 			(effects
 				(font
@@ -6650,7 +6650,7 @@
 				)
 			)
 		)
-		(property "Value" "74ACT139"
+		(property "Value" "74AC139"
 			(at 64.77 119.38 0)
 			(effects
 				(font
@@ -6963,7 +6963,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "74ACT139"
+		(property "Value" "74AC139"
 			(at 248.92 133.3499 0)
 			(effects
 				(font
