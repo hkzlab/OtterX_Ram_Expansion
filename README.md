@@ -4,7 +4,7 @@
 
 This card expands the RAM of your [OtterX](https://www.tindie.com/products/wavicle/otterx-8-bit-retro-computer/) (a DIY CommanderX16 compatible) computer to 2MB!
 
-Once You install this, and switch [J27](https://github.com/RetroRemake/OtterX_Assembly/blob/main/OtterX%20Schematics.pdf) to enable the external RAM, the computer will automatically detect the 2MB.
+Once switch [J27](https://github.com/RetroRemake/OtterX_Assembly/blob/main/OtterX%20Schematics.pdf) to enable the external RAM and install this board, the computer will automatically detect the 2MB.
 
 ![Installed RAM Expansion](pics/installed_expansion.jpg)
 
